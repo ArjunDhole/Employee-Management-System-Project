@@ -1,4 +1,6 @@
-# Employee-Management-System
+ ------------------------------
+| # Employee Management System |
+ ------------------------------
 Employee Management System is a Java application, developed to maintain the details of employees working in any organization. It maintains information about the personal details of their employees. The application is completed developed using Java Language and using MySql Database.  This application is helpful to the department of the organization which maintains data of employees related to an organization   
 
 
